@@ -1,0 +1,5 @@
+username,password,entered_password,expected_result
+user1,password123,password123,True
+user2,abc123,wrongpass,False
+user3,securepassword,securepassword,True
+user4,123456,123456,True
